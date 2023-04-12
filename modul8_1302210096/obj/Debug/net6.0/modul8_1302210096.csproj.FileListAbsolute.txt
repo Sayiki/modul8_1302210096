@@ -1,0 +1,15 @@
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\bin\Debug\net6.0\modul8_1302210096.exe
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\bin\Debug\net6.0\modul8_1302210096.deps.json
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\bin\Debug\net6.0\modul8_1302210096.runtimeconfig.json
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\bin\Debug\net6.0\modul8_1302210096.dll
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\bin\Debug\net6.0\modul8_1302210096.pdb
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.csproj.AssemblyReference.cache
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.AssemblyInfoInputs.cache
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.AssemblyInfo.cs
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.csproj.CoreCompileInputs.cache
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.dll
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\refint\modul8_1302210096.dll
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.pdb
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\modul8_1302210096.genruntimeconfig.cache
+C:\Users\arzaq\OneDrive\Documents\GUI\modul8_1302210096\modul8_1302210096\obj\Debug\net6.0\ref\modul8_1302210096.dll
